@@ -77,7 +77,7 @@
     "alizarin": "https://github.com/flaxandteal/alizarin/releases/download/v2.0.0-alpha.131/alizarin-2.0.0-alpha.131.tgz",
     "dompurify": "^3.2.5",
     "flatbush": "^4.4.0",
-    "flatgeobuf": "^4.0.1",
+    "flatgeobuf": "^4.5.0",
     "fs": "^0.0.1-security",
     "geojson": "^0.5.0",
     "gray-matter": "^4.0.3",
